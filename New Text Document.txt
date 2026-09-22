@@ -1,0 +1,10 @@
+create project 
+uv init chai-streamlit
+cd chai-streamlit
+uv add streamlit 
+
+streamlit 
+python 
+declarative 
+
+uv run main.py
